@@ -1,0 +1,197 @@
+{
+	"info": {
+		"types": ["enemy", "environment", "item"],
+		"x0": "starting x coordinate in sprite sheet",
+		"y0": "starting y coordinate in sprite sheet",
+		"info": "special information that will be in code rather than this config"
+	}, 
+	"src": {
+		"-": {
+			"info": "do nothing, this is air"
+		},
+		"E": {
+			"type": 0,
+			"x0": 16,
+			"y0": 16
+		},
+		"|": {
+			"type": 1,
+			"x0": 0,
+			"y0": 0,
+			"info": "special case where it should write an extra 8 pixesl from the top of this"
+		},
+		"S": {
+			"type": 1,
+			"x0": 0,
+			"y0": 16
+		},
+		"?": {
+			"type": 1,
+			"x0": 384,
+			"y0": 0
+		},
+		"X": {
+			"type": 1,
+			"x0": 0,
+			"y0": 16
+		},
+		"s": {
+			"type": 2,
+			"x0": 0,
+			"y0": 48
+		},
+		"f": {
+			"type": 1,
+			"x0": 256,
+			"y0": 144
+		},
+		"flag_pole_top": {
+			"type": 1,
+			"x0": 256,
+			"y0": 128
+		},
+		"flag": {
+			"type": 2,
+			"x0": 128,
+			"y0": 32
+		},
+		"[": {
+			"type": 1,
+			"x0": 0,
+			"y0": 144
+		},
+		"]": {
+			"type": 1,
+			"x0": 16,
+			"y0": 144
+		}, 
+		"<": {
+			"type": 1,
+			"x0": 0,
+			"y0": 128
+		},
+		">": {
+			"type": 1,
+			"x0": 16,
+			"y0": 128
+		},
+		"#": {
+			"type": 1,
+			"x0": 32,
+			"y0": 0
+		}, 
+		"k": {
+			"type": 0,
+			"x0": 96,
+			"y0": 8,
+			"extra": 8
+		},
+		"c": {
+			"type": 2,
+			"x0": 0,
+			"y0": 96
+		},
+		"F": {
+			"type": 2,
+			"x0": 64,
+			"y0": 128
+		},
+		"TR": {
+			"type": 1,
+			"x0": 112,
+			"y0": 128
+		},
+		"TM": {
+			"type": 1,
+			"x0": 96,
+			"y0": 128
+		},
+		"TL": {
+			"type": 1,
+			"x0": 80,
+			"y0": 128
+		},
+		"P": {
+			"type": 1,
+			"x0": 80,
+			"y0": 16
+		},
+		"el": {
+			"type": 0,
+			"x0": 192,
+			"y0": 8,
+			"extra": 8,
+			"reduce_x_right": 8
+		},
+		"er": {
+			"type": 0,
+			"x0": 192,
+			"y0": 8,
+			"extra": 8,
+			"reduce_x_left": 8
+		},
+		"sb": {
+			"type": 2,
+			"x0": 80,
+			"y0": 48
+		},
+		"st": {
+			"type": 2,
+			"x0": 80,
+			"y0": 32
+		},
+		"w": {
+			"type": 1,
+			"x0": 48,
+			"y0": 16
+		},
+		"C": {
+			"type": 0,
+			"x0": 624,
+			"y0": 80
+		},
+		"r": {
+			"type": 0,
+			"x0": 480,
+			"y0": 80
+		},
+		"R": {
+			"type": 0,
+			"x0": 464,
+			"y0": 80
+		},
+		"L": {
+			"type": 0,
+			"x0": 416,
+			"y0": 8,
+			"extra": 8
+		},
+		"K": {
+			"type": 0,
+			"x0": 144,
+			"y0": 74,
+			"extra": 8
+		},
+		"zb": {
+			"type": 1,
+			"x0": 144,
+			"y0": 16
+		},
+		"zt": {
+			"type": 1,
+			"x0": 144,
+			"y0": 0
+		},
+		"h": {
+			"type": 0,
+			"x0": 320,
+			"y0": 8,
+			"extra": 8
+		},
+		"b": {
+			"type": 0,
+			"x0": 512,
+			"y0": 16
+		}
+	}
+}

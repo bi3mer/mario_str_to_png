@@ -1,0 +1,3 @@
+* enemy sprite sheet: [https://www.spriters-resource.com/nes/supermariobros/sheet/52570/](https://www.spriters-resource.com/nes/supermariobros/sheet/52570/)
+* env tile set: [https://www.spriters-resource.com/nes/supermariobros/sheet/52571/](https://www.spriters-resource.com/nes/supermariobros/sheet/52571/)
+* items and objects tile set: [https://www.spriters-resource.com/nes/supermariobros/sheet/52569/](https://www.spriters-resource.com/nes/supermariobros/sheet/52569/)
